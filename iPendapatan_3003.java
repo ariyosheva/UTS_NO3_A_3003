@@ -9,7 +9,7 @@ package com.mycompanyject.main_3003;
  * @author lenovo
  */
 public interface iPendapatan_3003 {
-   public double totalPendapatan ();
+   public double totalPendapatan_3003 ();
         
   
 }
